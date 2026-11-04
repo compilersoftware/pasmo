@@ -2,3 +2,11 @@
 Makefile
 config.log
 config.status
+
+# Build artifacts
+*.o
+*.lo
+*.la
+*.a
+*.exe
+*.out
